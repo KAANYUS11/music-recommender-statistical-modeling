@@ -99,5 +99,4 @@ python src/part4.py --topk 3 --n-trials 100 --ratings-path data/enlarged_user_ra
 - Data wrangling with pandas
 - NumPy-based numerical computation
 - Modular Python scripting
-- Clear experiment structure and reproducible run commands
 
