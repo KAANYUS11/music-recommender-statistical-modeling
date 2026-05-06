@@ -2,7 +2,7 @@
 
 A Python analysis project that models music-rating behavior and evaluates simple recommendation strategies with probability, Bayesian reasoning, user variability modeling, and offline Monte Carlo replay.
 
-This project was built for **CMPE343 - Introduction to Statistics for Computer Engineering Students**. It uses anonymized/expanded music rating data and track metadata to explore how statistical methods can support recommender-system decisions.
+This project was built as a three-person group project for **CMPE343 - Introduction to Statistics for Computer Engineering Students**. It uses anonymized/expanded music rating data and track metadata to explore how statistical methods can support recommender-system decisions.
 
 The repository also includes the original course report (`report.pdf`) and a small group-rating sample (`data/group_ratings.csv`) for context.
 
@@ -100,5 +100,4 @@ python src/part4.py --topk 3 --n-trials 100 --ratings-path data/enlarged_user_ra
 - NumPy-based numerical computation
 - Modular Python scripting
 - Clear experiment structure and reproducible run commands
-
 
